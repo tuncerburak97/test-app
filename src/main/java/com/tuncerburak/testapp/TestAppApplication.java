@@ -15,7 +15,7 @@ public class TestAppApplication {
 
 	@GetMapping("/test")
 	public String test(){
-		return "Merhaba";
+		return "Seni çok seviyorum Mervişimmmmm <3";
 	}
 
 }
